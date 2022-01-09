@@ -6,3 +6,6 @@ This is an imitation of the Amazon online shopping store. Users can add and remo
 - React Redux ( To create a data layer )
 - Firebase ( Authenticate users logged in and add data to a cloud database )
 - Stripe ( Make payments with test credit card )
+
+#URL
+visit the site [here](https://amazon-shopping-center.netlify.app/)
