@@ -7,5 +7,5 @@ This is an imitation of the Amazon online shopping store. Users can add and remo
 - Firebase ( Authenticate users logged in and add data to a cloud database )
 - Stripe ( Make payments with test credit card )
 
-#URL
+# URL
 visit the site [here](https://amazon-shopping-center.netlify.app/)
