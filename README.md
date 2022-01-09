@@ -9,3 +9,5 @@ This is an imitation of the Amazon online shopping store. Users can add and remo
 
 # URL
 visit the site [here](https://amazon-shopping-center.netlify.app/)
+
+=> Will be uploading the source codes in bits
